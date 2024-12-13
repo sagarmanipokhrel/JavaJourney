@@ -40,7 +40,7 @@
 </section>
 
 <footer>
-    <p>Created with 💻 by [Your Name]</p>
+    <p>Created with 💻 by Sagar</p>
     <p>Feel free to contribute! Open a pull request or report issues <a href="https://github.com/yourusername/java-programming/issues" target="_blank">here</a>.</p>
 </footer>
 
