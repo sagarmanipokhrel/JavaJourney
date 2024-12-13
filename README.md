@@ -29,7 +29,7 @@
     <h2>🛠️ Technologies Used</h2>
     <ul>
         <li>Java SE</li>
-        <li>IntelliJ IDEA or Eclipse (for IDE)</li>
+        <li>Visual Studio code (for IDE)</li>
         <li>Git (for version control)</li>
     </ul>
 </section>
